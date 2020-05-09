@@ -1,4 +1,7 @@
 package tal.xes.autotest.app.DAO;
 
-public interface DebugTool {
+import java.util.Map;
+
+public interface DebugTool extends Map {
+
 }
