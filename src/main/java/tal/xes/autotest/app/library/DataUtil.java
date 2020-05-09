@@ -4,7 +4,8 @@ package tal.xes.autotest.app.library;
 import com.alibaba.fastjson.JSONArray;
 import com.alibaba.fastjson.JSONObject;
 //import org.omg.DynamicAny.NameValuePair;
-
+import org.apache.http.NameValuePair;
+import org.apache.http.message.BasicNameValuePair;
 import java.io.IOException;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;

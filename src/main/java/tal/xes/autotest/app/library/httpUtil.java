@@ -232,7 +232,7 @@ public class httpUtil {
 
     private static String setFilter(String responsedata) {
         JSONObject jsonObject = JSON.parseObject(responsedata);
-        return JSON.toJSONString(jsonObject, HttpUtil.filter);
+        return JSON.toJSONString(jsonObject, httpUtil.filter);
     }
 
     private static PropertyFilter filter = new PropertyFilter() {
