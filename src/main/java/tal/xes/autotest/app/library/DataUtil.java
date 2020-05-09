@@ -10,7 +10,12 @@ import java.io.IOException;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.*;
-
+/**
+ * @author zyz
+ * @date 2020.05.10
+ * @descirption json工具类
+ *
+ * */
 public class DataUtil {
 
     //String转Json格式

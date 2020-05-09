@@ -1,5 +1,10 @@
 package tal.xes.autotest.app.enums;
-
+/**
+ * @author zyz
+ * @date 2020.05.09
+ * @descirption QAQ
+ *
+ * */
 public enum HttpCode {
     SUCCESS_CODE(0, "数据请求成功"),
     FAIL_CODE(-1, "数据请求失败");

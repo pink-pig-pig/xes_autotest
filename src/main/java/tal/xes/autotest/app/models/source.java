@@ -44,14 +44,14 @@ public class source {
      * */
     private Integer nullOfSource;
     /**
-     * 标注按钮，这道图片是否应该注意，debugFlag
+     * 标注按钮，这道题目是否应该注意，debugFlag
      * */
     private Boolean isDebug;
 
-    /**
-     * 标记的题目，list，可为空
-     * */
-    private List<String> debugContent;
+//    /**
+//     * 标记的题目，list，可为空
+//     * */
+//    private List<String> debugContent;
     /**
      * 创建时间
      * */

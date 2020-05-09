@@ -2,7 +2,12 @@ package tal.xes.autotest.app.enums;
 
 import java.util.HashMap;
 import java.util.Map;
-
+/**
+ * @author zyz
+ * @date 2020.05.09
+ * @descirption 常见枚举类
+ *
+ * */
 //@Slf4j
 public enum StatusCode {
     FAILED("400","失败"),

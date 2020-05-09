@@ -1,6 +1,11 @@
 package tal.xes.autotest.app.dto;
 import lombok.Data;
-
+/**
+ * @author zyz
+ * @date 2020.05.09
+ * @descirption 白名单的传输接口类
+ *
+ * */
 @Data
 public class RequestDTO {
     /**

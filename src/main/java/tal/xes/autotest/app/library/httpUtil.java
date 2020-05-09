@@ -17,7 +17,12 @@ import org.apache.http.util.EntityUtils;
 import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;
-
+/**
+ * @author zyz
+ * @date 2020.05.09
+ * @descirption http工具类
+ *
+ * */
 
 public class httpUtil {
 
