@@ -10,7 +10,7 @@ import java.util.List;
  * @descirption debug工具所需接口类
  *
  * */
-@Mapper
+//@Mapper
 @Component("DebugTool")
 public interface DebugTool  {
     /**
@@ -19,7 +19,7 @@ public interface DebugTool  {
      */
     public List<Object> searchBySource(@NotNull String source);
     /**
-     * 查询所有这个来源的题目
+     * 根据url查询题目
      * @return Integer
      */
     public List<Object> searchByUrl(@NotNull String url);
